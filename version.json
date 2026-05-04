@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.0+2",
-  "apkUrl": "https://drive.google.com/uc?export=download&id=1LOELH7qi7aX7hZmYxSNZdJ1UN2pFBYRO",
-  "releaseNotes": "Shorebird release — bug fixes and improvements",
-  "releaseDate": "2026-04-29",
-  "minVersionCode": 1
+  "versionCode": 14,
+  "versionName": "1.1.14",
+  "apkUrl": "https://drive.google.com/uc?export=download&id=1lxljLXuetLfUOuwbHqKFzJjBxZrGMSKL",
+  "releaseNotes": "New weekly timetable feature — parents can assign tasks by day and time slot. Grid layout with light and dark mode. Avatar removal option added.",
+  "releaseDate": "2026-05-04",
+  "minVersionCode": 14
 }
